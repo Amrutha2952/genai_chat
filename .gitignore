@@ -1,1 +1,10 @@
-node_modules
+# Node / React
+node_modules/
+dist/
+.env
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+venv/
+.env
